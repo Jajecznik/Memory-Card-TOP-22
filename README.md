@@ -1,5 +1,7 @@
 # Memory Card
 
+Memory Checker is a fun memory game where you earn points by clicking on each unique Pokémon card only once — clicking a repeat resets your score.
+
 ## Assignment
 
 1. Create a new React Project.
